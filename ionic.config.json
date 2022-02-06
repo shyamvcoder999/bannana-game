@@ -1,0 +1,8 @@
+{
+  "name": "Bannana Game",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "c94dfe48"
+}
